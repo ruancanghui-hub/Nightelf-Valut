@@ -1,0 +1,4 @@
+.ai-workbench/local/
+.env
+.env.*
+*.nightelf-tmp
