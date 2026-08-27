@@ -36,9 +36,15 @@
     }
   },
   "viewport": {
+<<<<<<< HEAD
     "offsetX": 161.47398512918647,
     "offsetY": -1754.0250267679664,
     "scale": 1.1624832754656709
+=======
+    "offsetX": 235.7188330497839,
+    "offsetY": -13.436078271930896,
+    "scale": 1.0
+>>>>>>> ae0ddd8c03d4b29183e58ee6bc0bef84f74a069e
   },
   "collapsedNodeIds": []
 }
