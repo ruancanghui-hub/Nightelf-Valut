@@ -4,5 +4,5 @@ title: "大佬MattPocock的Skill 200K star"
 url: "https://github.com/mattpocock/skills"
 description: ""
 tags: []
-floatingBubble: false
+floatingBubble: true
 ---
