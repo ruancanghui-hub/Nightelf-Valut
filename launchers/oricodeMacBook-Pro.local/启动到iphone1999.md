@@ -1,0 +1,5 @@
+---
+id: "cc5694d6-7995-41b7-8486-90014aa8ac67"
+title: "启动到iPhone1999"
+scriptPath: "/Users/orico/Documents/01_project/45_八戒/apps/bajie/启动到iPhone1999.command"
+---
