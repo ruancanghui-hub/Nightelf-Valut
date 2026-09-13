@@ -4,5 +4,5 @@ title: "flutter_shadcn"
 url: "https://pub.dev/packages/shadcn_ui"
 description: ""
 tags: []
-floatingBubble: false
+floatingBubble: true
 ---
